@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohan-k-design
+- 👋 Hi, I’m @Rohan-K12
 - 👀 I’m interested in design & web dev
 - 🌱 I’m currently learning web dev
 - 😄 Pronouns: he/him
